@@ -2,7 +2,7 @@
 
 User-friendly & responsive website for Covid-19 Awareness & Protection.
 
-### Project Link: https://blue-plant-0e53d7910.1.azurestaticapps.net
+### Project Link: https://shreneek.github.io/Covid-19_Awareness
 
 ## About Project
 As we know that the **COVID-19 pandemic** has now entered its **third year**. Till the December 2021, the novel coronavirus was raging in almost 200 countries and had killed more than **5.3 million** people. We need to come together and fight against it.
@@ -13,7 +13,8 @@ So, **Core idea** of my project as an **INTERN** at **FUTURE READY TALENT** is t
 
 ## Service Used for Deployment
 To build and deploy the whole website I've chosen **Azure Cloud Platform** by using it's 
-**STATIC WEB APPS SERVICE** linking it to my Github repository for deployment of project in an easy way.  
+**STATIC WEB APPS SERVICE** linking it to my Github repository for deployment of project in an easy way. 
+Currently, my azure service has been expired so I have user github pages for deployment.
 
 ## Website Details
 This website is both mobile and desktop-friendly with animated contents. It has only one webpage and navigation can be done either by scrolling website or by operating navbar links.
